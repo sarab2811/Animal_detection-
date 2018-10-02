@@ -1,2 +1,2 @@
 # Animal_detection-
-In this project, Resnet_50 is used to detect an animal in a picture 
+A set of projects in this rebositary. Some of these projects are in matlab, and others are in python 
